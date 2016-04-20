@@ -1,2 +1,2 @@
 # VinCode
-VinCode T01
+VinCode T01 - 20.04.2016.
